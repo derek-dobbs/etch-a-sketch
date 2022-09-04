@@ -1,3 +1,5 @@
-h1{
-    color: red;
+.grid-square{
+    border: 1px solid black;
+    height: 25px;
+    width: 25px;
 }
